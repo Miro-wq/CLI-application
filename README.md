@@ -1,8 +1,8 @@
 ### Screenshot links:
-[https://ibb.co/82WLz5N](https://ibb.co/82WLz5N)
-[https://ibb.co/zhgkPNy](https://ibb.co/zhgkPNy)
-[https://ibb.co/vsRM2y3](https://ibb.co/vsRM2y3)
-[https://ibb.co/s3jKqvY](https://ibb.co/s3jKqvY)
+- [https://ibb.co/82WLz5N](https://ibb.co/82WLz5N)
+- [https://ibb.co/zhgkPNy](https://ibb.co/zhgkPNy)
+- [https://ibb.co/vsRM2y3](https://ibb.co/vsRM2y3)
+- [https://ibb.co/s3jKqvY](https://ibb.co/s3jKqvY)
 
 
 # CLI-application (CLI Contact Manager)
