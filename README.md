@@ -42,7 +42,3 @@ cli-contact-manager/
 ├── package.json       # Project configuration and dependencies
 ├── README.md          # Project documentation
 ```
-
-## License
-
-This project is licensed under the MIT License.
