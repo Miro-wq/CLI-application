@@ -5,17 +5,19 @@
 - [https://ibb.co/s3jKqvY](https://ibb.co/s3jKqvY)
 
 
-# CLI-application (CLI Contact Manager)
+# ✨ CLI-application (CLI Contact Manager) ✨
 
 ## 🛠 Tools used
 
 [![My Skills](https://skillicons.dev/icons?i=js,react,npm,vscode)](https://skillicons.dev)
 
-### ✨ Description 
+### Description 
 
 This project is a Command-Line Interface (CLI) application for managing a collection of contacts. It allows users to perform basic CRUD operations (Create, Read, Update, Delete) on a contact list stored in a JSON file. The application is built using Node.js and leverages popular npm packages such as `yargs` and `commander` for parsing command-line arguments.
 
 ## ![Features](https://img.shields.io/badge/Features-8A2BE2)
+<h2 style="color: purple;">Features</h2>
+
 
 - **List all contacts**: View the entire contact list in a table format.
 - **Retrieve a contact**: Search for a contact by their unique ID.
