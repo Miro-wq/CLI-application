@@ -1,4 +1,4 @@
-### Screenshot links:
+### $\textsf{\color{#8A2BE2}{Screenshot links:}}$
 - [https://ibb.co/82WLz5N](https://ibb.co/82WLz5N)
 - [https://ibb.co/zhgkPNy](https://ibb.co/zhgkPNy)
 - [https://ibb.co/vsRM2y3](https://ibb.co/vsRM2y3)
