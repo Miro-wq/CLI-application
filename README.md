@@ -6,7 +6,7 @@
 
 
 # ✨ CLI-application (CLI Contact Manager) ✨
-> [!IMPORTANT]
+> [!FEATURES]
 > Ladybird is in a pre-alpha state, and only suitable for use by developers
 >
 
