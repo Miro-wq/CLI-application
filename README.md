@@ -25,7 +25,7 @@ This project is a Command-Line Interface (CLI) application for managing a collec
 - **Modular design**: Functions for contact management are encapsulated in a separate `contacts.js` module.
 
 ## Technologies Used
-
+[!IMPORTANT]
 - **Node.js**: JavaScript runtime environment.
 - **yargs**: For parsing command-line arguments.
 - **commander**: An alternative package for CLI argument parsing.
