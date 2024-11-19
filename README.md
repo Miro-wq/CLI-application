@@ -1,4 +1,4 @@
-### $\textsf{\color{#8A2BE2}{Screenshot links:}}$
+### Screenshot links:
 - [https://ibb.co/82WLz5N](https://ibb.co/82WLz5N)
 - [https://ibb.co/zhgkPNy](https://ibb.co/zhgkPNy)
 - [https://ibb.co/vsRM2y3](https://ibb.co/vsRM2y3)
@@ -11,7 +11,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=js,react,npm,vscode)](https://skillicons.dev)
 
-### Description 
+### $\textsf{\color{#8A2BE2}{Description}}$
 
 This project is a Command-Line Interface (CLI) application for managing a collection of contacts. It allows users to perform basic CRUD operations (Create, Read, Update, Delete) on a contact list stored in a JSON file. The application is built using Node.js and leverages popular npm packages such as `yargs` and `commander` for parsing command-line arguments.
 
@@ -25,14 +25,14 @@ This project is a Command-Line Interface (CLI) application for managing a collec
 - **JSON storage**: Contacts are stored persistently in a `contacts.json` file located in the `db` folder.
 - **Modular design**: Functions for contact management are encapsulated in a separate `contacts.js` module.
 
-## Technologies Used
+## $\textsf{\color{#8A2BE2}{Technologies Used }}$ 
 
 - **Node.js**: JavaScript runtime environment.
 - **yargs**: For parsing command-line arguments.
 - **commander**: An alternative package for CLI argument parsing.
 - **fs and path modules**: For file system operations and path handling.
 
-## Project Structure
+## $\textsf{\color{#8A2BE2}{Project Structure}}$ 
 
 ```plaintext
 cli-contact-manager/
