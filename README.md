@@ -6,9 +6,6 @@
 
 
 # ✨ CLI-application (CLI Contact Manager) ✨
-> [!FEATURES]
-> Ladybird is in a pre-alpha state, and only suitable for use by developers
->
 
 ## 🛠 Tools used
 
@@ -18,7 +15,8 @@
 
 This project is a Command-Line Interface (CLI) application for managing a collection of contacts. It allows users to perform basic CRUD operations (Create, Read, Update, Delete) on a contact list stored in a JSON file. The application is built using Node.js and leverages popular npm packages such as `yargs` and `commander` for parsing command-line arguments.
 
-## ![Features](https://img.shields.io/badge/Features-8A2BE2)
+## $\textsf{\color{#8A2BE2}{Features}}$ 
+
 
 - **List all contacts**: View the entire contact list in a table format.
 - **Retrieve a contact**: Search for a contact by their unique ID.
@@ -45,5 +43,3 @@ cli-contact-manager/
 ├── package.json       # Project configuration and dependencies
 ├── README.md          # Project documentation
 ```
-
-## $${\color{purple}Features}$$
