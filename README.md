@@ -16,6 +16,7 @@
 This project is a Command-Line Interface (CLI) application for managing a collection of contacts. It allows users to perform basic CRUD operations (Create, Read, Update, Delete) on a contact list stored in a JSON file. The application is built using Node.js and leverages popular npm packages such as `yargs` and `commander` for parsing command-line arguments.
 
 ## Features
+![Features](https://img.shields.io/badge/Features-purple?style=for-the-badge)
 
 - **List all contacts**: View the entire contact list in a table format.
 - **Retrieve a contact**: Search for a contact by their unique ID.
@@ -25,7 +26,7 @@ This project is a Command-Line Interface (CLI) application for managing a collec
 - **Modular design**: Functions for contact management are encapsulated in a separate `contacts.js` module.
 
 ## Technologies Used
-[!IMPORTANT]
+
 - **Node.js**: JavaScript runtime environment.
 - **yargs**: For parsing command-line arguments.
 - **commander**: An alternative package for CLI argument parsing.
