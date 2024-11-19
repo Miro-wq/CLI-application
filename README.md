@@ -43,4 +43,4 @@ cli-contact-manager/
 ├── README.md          # Project documentation
 ```
 
-## $${\color{#8A2BE2}Features}$$
+## $${color{#8A2BE2}Features}$$
