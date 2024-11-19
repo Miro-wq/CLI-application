@@ -15,7 +15,7 @@
 
 This project is a Command-Line Interface (CLI) application for managing a collection of contacts. It allows users to perform basic CRUD operations (Create, Read, Update, Delete) on a contact list stored in a JSON file. The application is built using Node.js and leverages popular npm packages such as `yargs` and `commander` for parsing command-line arguments.
 
-##![Features](https://img.shields.io/badge/Features-8A2BE2)
+## ![Features](https://img.shields.io/badge/Features-8A2BE2)
 
 - **List all contacts**: View the entire contact list in a table format.
 - **Retrieve a contact**: Search for a contact by their unique ID.
@@ -42,3 +42,12 @@ cli-contact-manager/
 ├── package.json       # Project configuration and dependencies
 ├── README.md          # Project documentation
 ```
+
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 55 20" fill="none">
+    <text x="0" y="15" fill="#4285f4">G</text>
+    <text x="12" y="15" fill="#ea4335">o</text>
+    <text x="21" y="15" fill="#fbbc05">o</text>
+    <text x="30" y="15" fill="#4285f4">g</text>
+    <text x="40" y="15" fill="#389738">l</text>
+    <text x="45" y="15" fill="#ea4335">e</text>
+</svg>
