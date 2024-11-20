@@ -42,3 +42,4 @@ cli-contact-manager/
 ├── package.json       # Project configuration and dependencies
 ├── README.md          # Project documentation
 ```
+![Features](https://img.shields.io/badge/Features-purple?style=for-the-badge)
