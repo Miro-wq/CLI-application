@@ -32,7 +32,7 @@
 - **commander**: An alternative package for CLI argument parsing.
 - **fs and path modules**: For file system operations and path handling.
 
-![Project Structure](https://img.shields.io/badge/Project20%Structure-purple?style=for-the-badge)
+![Project Structure](https://img.shields.io/badge/Project%20Structure-purple?style=for-the-badge)
 
 ```plaintext
 cli-contact-manager/
