@@ -15,7 +15,7 @@
 >This project is a Command-Line Interface (CLI) application for managing a collection of contacts. It allows users to perform basic CRUD operations (Create, Read, Update, Delete) on a contact list stored in a >JSON file. The application is built using Node.js and leverages popular npm packages such as `yargs` and `commander` for parsing command-line arguments.
 >
 
-## $\textsf{\color{#8A2BE2}{Features}}$ 
+![Features](https://img.shields.io/badge/Features-purple?style=for-the-badge)
 
 - **List all contacts**: View the entire contact list in a table format.
 - **Retrieve a contact**: Search for a contact by their unique ID.
@@ -24,14 +24,14 @@
 - **JSON storage**: Contacts are stored persistently in a `contacts.json` file located in the `db` folder.
 - **Modular design**: Functions for contact management are encapsulated in a separate `contacts.js` module.
 
-## $\textsf{\color{#8A2BE2}{Technologies Used }}$ 
+![Technologies Used](https://img.shields.io/badge/Technologies-Used-purple?style=for-the-badge)
 
 - **Node.js**: JavaScript runtime environment.
 - **yargs**: For parsing command-line arguments.
 - **commander**: An alternative package for CLI argument parsing.
 - **fs and path modules**: For file system operations and path handling.
 
-## $\textsf{\color{#8A2BE2}{Project Structure}}$ 
+![Project Structure](https://img.shields.io/badge/Project-Structure-purple?style=for-the-badge)
 
 ```plaintext
 cli-contact-manager/
@@ -42,4 +42,3 @@ cli-contact-manager/
 ├── package.json       # Project configuration and dependencies
 ├── README.md          # Project documentation
 ```
-![Features](https://img.shields.io/badge/Features-purple?style=for-the-badge)
